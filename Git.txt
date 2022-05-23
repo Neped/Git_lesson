@@ -1,0 +1,18 @@
+git clone path-to-repository
+git status
+git add path-to-file
+git commit -am "added new file index.html"
+gti push
+git pull
+
+cd c:\ - выбор папки
+Git clon - клонировать к себе
+git branch develop
+git checkout - создает ветку
+git checkout develop
+git checkout main
+git status
+git add
+git commit
+gti push - отправляет
+git pull - стягивает
