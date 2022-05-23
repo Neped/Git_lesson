@@ -2,6 +2,7 @@ Git:
 git clone path-to-repository
 git status
 git add path-to-file
+git add.
 git commit -am "added new file index.html"
 gti push
 git pull
