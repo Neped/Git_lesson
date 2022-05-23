@@ -5,6 +5,9 @@ git commit -am "added new file index.html"
 gti push
 git pull
 
+git config --global user.email "ineiped@gmail.com"
+git config --global user.name "Neped"
+
 cd c:\ - выбор папки
 Git clon - клонировать к себе
 git branch develop
